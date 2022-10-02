@@ -1,5 +1,8 @@
 # flex
-flex布局小案例
+主要为flex布局 学习css时做的支付宝小案例
+
+![_J3P%T~Z(){67X~{`TV@_C3](https://user-images.githubusercontent.com/113281531/193458249-1bc99099-a2cc-452b-b0f8-4bdc86b6f0d3.png)
+
 
 ```html
 <!DOCTYPE html>
